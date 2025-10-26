@@ -1,0 +1,152 @@
+{
+  "portfolios": [
+    {
+      "id": "1",
+      "templateId": 1,
+      "name": "John Doe",
+      "title": "Senior Full Stack Developer",
+      "tagline": "Creating amazing digital experiences",
+      "profileImage": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&h=400&fit=crop&crop=face",
+      "bio": "Experienced full-stack developer with 5+ years in web technologies. Passionate about creating scalable, maintainable applications and mentoring junior developers. Specialized in React, Node.js, and cloud technologies.",
+      "email": "john.doe@example.com",
+      "phone": "+1 (555) 123-4567",
+      "location": "New York, NY",
+      "socials": {
+        "linkedin": "https://linkedin.com/in/johndoe",
+        "github": "https://github.com/johndoe",
+        "twitter": "https://twitter.com/johndoe"
+      },
+      "skills": [
+        "React",
+        "Node.js",
+        "TypeScript",
+        "Python",
+        "AWS",
+        "MongoDB",
+        "Docker",
+        "GraphQL"
+      ],
+      "services": [
+        {
+          "title": "Web Development",
+          "description": "Custom web applications using modern technologies like React, Node.js, and cloud services."
+        },
+        {
+          "title": "API Design",
+          "description": "RESTful and GraphQL API design and implementation with proper documentation and testing."
+        },
+        {
+          "title": "DevOps & Deployment",
+          "description": "CI/CD pipeline setup, cloud deployment, and infrastructure management using AWS and Docker."
+        }
+      ],
+      "projects": [
+        {
+          "title": "E-commerce Platform",
+          "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=600&h=400&fit=crop",
+          "description": "Full-stack e-commerce solution with React frontend, Node.js backend, and MongoDB database. Features include user authentication, payment processing, and admin dashboard."
+        },
+        {
+          "title": "Task Management App",
+          "image": "https://images.unsplash.com/photo-1611224923853-80b023f02d71?w=600&h=400&fit=crop",
+          "description": "Collaborative task management application with real-time updates, team collaboration features, and project tracking."
+        },
+        {
+          "title": "Social Media Dashboard",
+          "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&h=400&fit=crop",
+          "description": "Analytics dashboard for social media management with data visualization and reporting features."
+        }
+      ],
+      "testimonials": [
+        {
+          "quote": "John delivered an exceptional e-commerce platform that exceeded our expectations. His attention to detail and technical expertise were impressive.",
+          "author": "Sarah Johnson, CEO at TechCorp"
+        },
+        {
+          "quote": "Working with John was a great experience. He's not only skilled technically but also great at understanding business requirements.",
+          "author": "Mike Chen, Product Manager"
+        }
+      ],
+      "blog": {
+        "title": "Tech Insights",
+        "summary": "Sharing thoughts on web development, best practices, and emerging technologies in the software industry."
+      },
+      "contact": {
+        "message": "Let's work together to bring your ideas to life! Get in touch to discuss your project.",
+        "email": "contact@johndoe.com",
+        "phone": "+1 (555) 123-4567"
+      },
+      "createdAt": "2024-01-15T10:00:00.000Z"
+    },
+    {
+      "id": "38af",
+      "name": "vazahat",
+      "title": "web developer",
+      "tagline": "creating web application",
+      "profileImage": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBw8PDw8QDw0PDw8QDw8PDw8PDRANDhANFREWFhURFRUYHSggGBolGxUVITEhJSkrLi4wFx8zODMsNygtLisBCgoKDg0OGhAQGC0dHx8tLS0tLSstLS0tLS0rLS0tLS0tLS0rLSstLS0tKysrKy0tLSstLS0tLS0tLS0tLS0tK//AABEIAOEA4QMBIgACEQEDEQH/xAAcAAACAwEBAQEAAAAAAAAAAAAAAwECBAUGBwj/xAA8EAACAgEBBQQGCgAFBQAAAAAAAQIDEQQSITFBUQUGYXETIoGRobEHFDJCUmJywdHhIzNDgtJTVJKjsv/EABkBAAMBAQEAAAAAAAAAAAAAAAABAgMEBf/EACMRAQEAAgICAQQDAAAAAAAAAAABAhEDIRIxBCJBUVITQmH/2gAMAwEAAhEDEQA/APn2CUgwWR2uKhIukEUXSGmiKGJAkMihkIxGKIRiMjEuRNqIxGRgWjEbGJWk7LUBigXUTPrO0KaP8yeHyivWl7h9T2Xd9NCgWUDy+r74YeKqVj8Vkv2X8jdB3wg919bhv+1D1o48VxI/mw3ra/4c9b09KoE+jDR6mq6O1VZGa/K08ea5Gn0ZrO/TK7jJsFXA1uBVwDQ2yOBVwNTiUcBUbZnAo4mpxFyiTYqVmcSrQ+URcokWaXMiJIpJD2hckTVwiSKNDpIW0Iy8AWARsyRZIhF4jJaKGJFYoZFDStFDIoiKGxRUibUxQ2ESIodCJpEbTGIxRCMTD2rq9lbEX6z4vogt1NiTd0z9q9rbGYV/a5y6eR43XXuTbbcm+bZp12pzuj1MFq6/2cXLncndx4TEhsCGQc7Y/TaidUlOucoSXOLw/wCz2nd/vgptV6rEZPdG1LEG/wAy5eZ4XIGmHLlhemefHM52+1bBWUDxncnvJsuOmvl6r3Uzk/sy5Qb6dD30qj0uPkmc3Hn8mFwuqwOBSUDdKsVKsvTPbC4C5RNsoCZRFYbI4i5RNUoipRM7FRlkhbRonEVJGdbQiSFSRoaFyQjJwBfACNjReKKpDIjKrpDIopEbEcSvFDYopEbAuIpkUOghcUOii4lF1mzFv3LqzyXaWobcsPjvlJvd7zqd4u0o1rGd63KPVnidVq52cXu5Lkc3NySdOrh4+tmWXQTePWefJGedrfh5bhYHHa6pAAAJQJKgBLpn1juN239b0+xN/wCPSlGfWcPuzPkqZ0Ow+1J6S+F0PuvE4/jrf2om3DyeGTLm4/PH/X2yVQmdZs0tkLq4WQeYTipxfVNZK2VnpyvM05soCZwN86xFkAPbDKIiUTZOIicSLAyTiJmjXNCJojKNcazTQqSNE0KaM2hWAL7IANsCGRRSIyKAl4oZFFEMiVCpiGwFIZFlop8RPaWvjRU5y8kvzDIs8j3y1u1ZGlPdWsy/W/4XzJ5M/HHauLDyy04mt1UrZynJ728mcCDzrdvRkAAAjAAAAAAAASQSAfUvop7YU6p6ScvXqzOrL3upv1kvJ/M9zZWfnzQayyi2FtUnCyD2oyXXo+qPvHd/tWOt0tV8VhyWJx47Ni3Sj7zv+PyeU8b9nB8jj1fKfcWQM1kTpWVmWys6ZXLY51kBFkTfZAzWRFTYJoRNGycTPOJNVGWSEyRpmhM0Z2NZScAXwBJuYhiFoYgBiLpi4lkxwHIvFiYssmPabGhM+ca692W2Tf3pyfszu+B9Ac8Z8mfOTD5F6kb/AB5raCCSDldQAAAwAAAAASAQAAASfSfod1r2tTp29zjG6C8U9mXzj7j5se1+iNN9ovH/AG1ufLah++DXhus4y5pvCvrtsDJbE6FiMtqPSea59kTJZE32xMtiAmCyJnnE2WIzWIRxlnEzyRrmZrERWkKAsBK3HRdC0XRGxYvFl8ikyyYGYmTtC9oq5ANHOZ4PU17M5x/DKS9mT2cpnmO3K8XN8ppS9vB/Ix5fTbi9uaDBgc7oQBKIA0pG3V9lX01UXW1ShVqIylTKWPXhF4ckuKWeGePIr2RoJ6nUUaeG6d91dMXxSlOain5LOTv9/u0/TaqVEG/q2hS0Oli8LFNPqbT6yk45b8ugqqR5ZgVAaQAABJPqX0NdlNLUauS3SxRX1wntTf8A8+5ny0++fR5oHR2ZpoyWJTjK5prDW29pL3YOj4+O89/hh8i6w1+XesRlsibJmexHe4WC1GS1G20yWMNpYrImWxGywyWCDNYhFg+wRYTWmJWAJAhW3DRZMoTkzaaMDJXJGQGlmykpA2KkxbVoTmcztmvar2ucHn/a+P7G2bE2b0096aafkyMu149dvNsgZqKnCTi+T3PquTFnNXQAAAN7D6J60+2NLOSzGlX3y6L0dE3F/wDnsnmb7HNyk+MpSk/NvJ6ru9pvq3ZGu18ns2aicOzdLxTaeLL5r2KCz4M8lZuQl/1IwQWIGhBIABOh2B2e9VqtPQv9S2MX4QzmT9yZ+kIpJJJYSWEvBHwv6NdbpdPrfS6mxV4rcanKOY+klubb5bs+8+313xnFSjJSi96lFppo7vjSeO3H8m/VImZnsQ2cjPbM6XMzXRMdiNN0jHZIKkiwyWGiyRksYhCZmewdYzPNk1pioBAEqcJMsmLROTFsZkrkhsmuDk0kstgFWxcmGovrrbU5pNcVhmG7tGOG4ZkvcibZPZyU2y1cOL6f2Klv47/DkimnvVya+zLjxM0r51txlv6Mnc9tNEauGePLg/2MbWDbfapblxMbfJ/2jHL20xVNGi0dl0tiqDnJJyeMJRguMpN7oxXV7hTh7j7r9DPcii/sqeo1EFJ6rUKcOf8AhaeTjH/2bb9iJXNb7eU71UaGGm7O0b7ShHT6OqTn6Gqy6y7V2S2rZxUtlYzlJ5e485bOjD+o9nTnFJ51Ouat3dUniqPuPoX0u65aCUKdNVXCTj61jhGU9rwz03Hx7Vay215tsnY/zSbXuCxrlZOonVbUm3OUG+kNlRXglFbKXkZZRwX2vAuq3PCinKTaUYpNycnuSS5sTNnAmUWm0001uaaw0yBpB2uwO9Gr0T/wbG6+dU/WrfkuXsOKA8crjdwrJZqvsnYP0gabUpRtf1e3hiT9ST8Jfyeklamsppp8GnlH53O12J3n1WkaUJudfOqb2o48Oh1YfJ/ZzZ/G/V9msZksZx+xO9mn1aUc+jt/6c3x/S+Z1rGdUymU3HHljcbqs9jMtjH2MzTYU4TYzNJjrGIkRWmKAKgJThonJVMkxa6WH22+grUnlSnv4cIkaGranv8AsxW1LyXIjtC9WbUWslT1tP3crt2Ub643R44W38s/A4EZYOpc9mUU/sbLqkuWHwfvwzl2w2W0+Twc3J3dunD0bRbsyUluNvaUlZCM1x4M5Q2Nr2XHk9+PEmZdaOzvZaZMnkqBKj6t+zhNvaS2Ust5fBI/Yfdrsz6loNLpljNGnrrk+TsUVtS9ssv2n5S7oKuGqo1F+19X02o09tuystwjbGUljn6qbwt+7xP1J3o7x06TSu/bjJShtVYeVPMcpprljmM8Zuvif0w2RhqLPSTjZfdFKMcZ9DVnOF0b6+Z8xjHJ0O3O0p6zU232SzKcm/KPJLwMctyFbtd7q8tK4wjN4UZZ2XtRecPD3J5W/qRU3CUZRbUk04tcU1wYnZyyZWrDWd/LAh0pqJZfXqxQANFuwAABAAAAmLaeU8NcGtzTPa9z+8lkp+g1Fm0msVSlx2vwt8zxJaEmmmnhp5T6Ncy8M7hdxGeEzmq+yWGawR2Jr1qNPXZ97GJ+E1uY+w9He5t5+tXTNYJkPmIkRVxQkAFo3BRJRMtFZaXUyaunosQqnJ8ZL4I83dr8zeY4w3vzg68NVmM1jnheS4HC1labbzh5DkvU0eE77U1du0mjFe9pRlzxiXmuZeba3MpFcVyksr9SOe3beTRAABCgaNLpXY392MVmUmuC8ubOlpa401xnxn6lk8cVB71BdN2M+fgYpaxqMq+Te59VyL8ZPZb36dCeohVGMI/Y2c5fFyfFsVPt7UulaZ3ylRHdXGT2vRxzlxi+S8DmTtbik+XDyFCyy2ePTdXAi34IRXe0hc5t8SV+S1lmeHD5iwAEgAACAAAAAAAAAAAer7h6/ZsnQ3umtuP61x+HyPZ2M+Vdm6l03V2L7sk3+nn8D6fKaaTXBrKOzgz+nX4cnPh9W/ypMTIvNi5Gm2SMARkA2bzqNGjWZx9vyZlTNWjW+T6Qfve4yntrWOycYyeHze7kZ7J1PjxLyim2s/ARfsx4Qcn5pIm1UjFrLIS+zkyKTRqnPjihLxe0zNsSbwovLeEkuZhW8FqWcrg95vp0cYVxstWXZvhDOPU/FLnv5Itp6Y1PM8SnFbTW5pS5QXjzb9wzWyc7aVJ5TUW/LOWVMdd0rfsyau7F1nRvDX5f6Mk1v3b1yLaie1OUusm/iLItOAAARgAAAAAAAAAAAAAAAAAAAAAA+hd39V6TTVvO+K2Jecdx89PUdzdTutrzzU18n+xrw3WTLmm8XppMpKRDZSTOrbmkTkBeQENOEmadJLG102d5kiYNbr5Sfo6t0Vnal+J9c8kY+Wu23js3VamMW96yc+7WbXUrVpJSeM7/AJeb5GqiqutZwpSw5bTWYqC+8ovq9yz5me7WskjNRpbLGsRwnzk8I26euFeys7TltOUuThHOUuibWCNTqWq0t7ttw/0wa3RXsfxZi1U8Twn9lKHuWH+4dYn7Lna3JyfFtv2jtRa8VPO/Ze//AHMyFpTykumfi8kbPSoAAjAAAAAAAAAAAAAAAAAAAAAAAAAAGzsjUuq6EuWdmX6XuZjAcuhZt9GcismY+y9T6SmEueMP9S3M0Skdcu3HrSdoBe0QMOBqJS2JbP2n6qx48/dkwQUYwlL7qaSfBzn+LyWHg161v0cscXhezJiteXGP3VJrH5YpL/l7znyvbpw9GJ+rsrdnZju5Sny9kc+2TKah5ju/1J4iulcd0V7/AJEUyy4N87JyfsSKK3NlfSLgl5Jk7Ubtp6ht8Iyb9kE8fIxNk7WG31z8SpNpgAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAQSAAAAB6Huxd6tkOklJe1f0dps8v2Bfs24f3449q3o9G5G+F6c/JO18gL2iDTaNOQmcq1YXinYvl/J0smbV1+q34p/t/BjW+NZqniMX09J8Yr+RCeHku36qXi38hZnWgYAAgAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAJIAAkCCQC0JuLTXFNNew9bGeUn1SZ5A9Lo7HKuDax6qNMEZxq2gFbQGjJzyl32ZeQAStyplQAxawAAAEoGAAEAAAAAAAAAAAAAAAAAAAAAAEAAAAAAEgAAAei0X+VD9KAC8PaM/RoABozf/2Q==",
+      "bio": "senior full stack with 3+ year experience ",
+      "email": "wazahai4@gmail.com",
+      "phone": "9393923932",
+      "location": "ujjain",
+      "socials": {
+        "linkedin": "https//www.linkedin.com/in/vazahat4",
+        "github": "https//www.github.com/vazahat-pixel",
+        "twitter": "https//www.l"
+      },
+      "skills": [
+        "react",
+        "node",
+        "python",
+        "mongodb"
+      ],
+      "services": [
+        {
+          "title": "Web development",
+          "description": "abc"
+        },
+        {
+          "title": "SEO ",
+          "description": "abc"
+        },
+        {
+          "title": "Digital marketing",
+          "description": "abc\n"
+        }
+      ],
+      "projects": [
+        {
+          "title": "E-commerce",
+          "image": "https://images.unsplash.com/photo-1690687505782-b7cc62530e0e?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8d2hhdHNhcHAlMjBkcHxlbnwwfHwwfHx8MA%3D%3D&fm=jpg&q=60&w=3000",
+          "description": "jsjnskjd"
+        },
+        {
+          "title": "second ",
+          "image": "https://i.pinimg.com/736x/23/01/3d/23013d2a9def98e427f22890c88c4c15.jpg",
+          "description": "ssd"
+        },
+        {
+          "title": "anothrt",
+          "image": "https://cdn2.momjunction.com/wp-content/uploads/2019/07/Whatsapp-DP-Images-For-Boys-1.jpg.webp",
+          "description": "ds"
+        }
+      ],
+      "testimonials": [
+        {
+          "quote": "vv",
+          "author": ""
+        }
+      ],
+      "blog": {
+        "title": "my blogs",
+        "summary": "its my first blog\n"
+      },
+      "contact": {
+        "message": "get in touch",
+        "email": "lala@gmail.com",
+        "phone": "932393232"
+      },
+      "templateId": 1,
+      "createdAt": "2025-10-25T19:21:21.370Z"
+    }
+  ]
+}
