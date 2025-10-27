@@ -1,26 +1,87 @@
-# Portfolio Generator
+Portfolio Generator
+A React-based portfolio generator that allows users to create professional portfolio websites by selecting templates and filling out multi-step forms.
 
-A dynamic React portfolio generator where users can select templates, fill multi-section forms, and generate professional portfolio websites.
+✨ Features
+- 2 Professional Templates: Modern Minimal & Creative Bold designs
+- 8-Step Form: Comprehensive data collection
+- Profile Gallery: Browse all created portfolios
+- Advanced Filtering: Filter by skills and roles
+- Responsive Design: Works on all devices
+- Dynamic Portfolio Pages: Fully functional websites
 
-## 🚀 Features
+🛠️ Tech Stack
+- Frontend: React, React Router, React Hook Form
+- Styling: Tailwind CSS
+- Backend: JSON Server
+- Icons: Lucide React
 
-- **Template Selection**: Choose from 2 beautiful portfolio templates
-- **Multi-step Form**: 8 comprehensive sections to collect user data
-- **Profile Cards**: Gallery view of all created portfolios
-- **Dynamic Portfolio Pages**: Fully functional portfolio websites
-- **Filter & Search**: Find professionals by skills and role
-- **Responsive Design**: Works on all devices
+🚀 Quick Start
+- Prerequisites
+- Node.js (version 16 or higher)
+- npm or yarn
 
-## 🛠️ Technologies Used
+Installation
+Clone the repository
 
-- **Frontend**: React, React Router, React Hook Form
-- **Styling**: Tailwind CSS
-- **Backend**: JSON Server (Mock API)
-- **Icons**: Lucide React
+bash
+- git clone https://github.com/vazahat-pixel/portfolio-generator
+- cd portfolio-generator
+  
+Install dependencies
+- npm install
+- Start backend server (Terminal 1)
+- npx json-server --watch db.json --port 3001
+- Start development server (Terminal 2)
 
-## 📦 Installation & Setup
-npm run dev
-json-server --watch db.json --port
+bash
+- npm run dev
+- Open your browser
+- Navigate to http://localhost:5173
 
-git clone https://github.com/yourusername/portfolio-generator.git
-cd portfolio-generator
+📖 How to Use
+- Select Template - Choose from 2 available designs
+- Fill Form - Complete 8-step form with your information
+- Create Portfolio - Submit to generate your portfolio
+- View Gallery - Browse all created portfolios
+- View Portfolio - Click to see complete website
+
+🎨 Templates
+- Template A - Modern Minimal
+- Clean, professional design
+- Blue and purple gradient theme
+- Template B - Creative Bold
+- Vibrant, creative design
+
+Orange and pink gradient theme
+
+📁 Project Structure
+text
+src/
+├── components/
+│   ├── MultiStepForm/     # All form step components
+│   ├── Portfolio_form/    # Main form container
+│   ├── templates/         # Portfolio templates
+│   └── common/            # Reusable components
+├── pages/                 # Main application pages
+└── services/              # API service functions
+
+
+🔧 API Endpoints
+GET /portfolios - Get all portfolios
+GET /portfolios/:id - Get portfolio by ID
+POST /portfolios - Create new portfolio
+PUT /portfolios/:id - Update portfolio
+DELETE /portfolios/:id - Delete portfolio
+
+🤝 Contributing
+Fork the project
+Create your feature branch (git checkout -b feature/AmazingFeature)
+Commit your changes (git commit -m 'Add some AmazingFeature')
+Push to the branch (git push origin feature/AmazingFeature)
+
+Open a Pull Request
+
+📞 Contact
+Vazahat Qureshi - wazahatqureshi4@gmail.com
+Project Link: https://github.com/vazahat-pixel/portfolio-generator
+
